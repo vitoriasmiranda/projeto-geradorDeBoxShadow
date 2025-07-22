@@ -30,4 +30,4 @@ Sinta-se à vontade para abrir issues ou pull requests caso encontre bugs ou que
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. (Se você não tiver um arquivo LICENSE, pode remover esta seção ou adicionar um.)
+Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
